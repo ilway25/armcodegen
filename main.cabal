@@ -1,0 +1,8 @@
+Name:                main
+Version:             0.0
+Synopsis:            main
+Build-Type:          Simple
+Build-Depends:       base, containers, mtl, fclabels, bimap
+
+Executable:          main
+Main-is:             main.hs
